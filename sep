@@ -1,3 +1,0 @@
-# ares 2017-03-08
-# contents of ./patterns/sep:
-SEP_NORMAL ([^,。]+)
